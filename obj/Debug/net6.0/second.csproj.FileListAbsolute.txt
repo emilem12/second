@@ -1,0 +1,15 @@
+F:\AAAA\second\obj\Debug\net6.0\second.csproj.AssemblyReference.cache
+F:\AAAA\second\obj\Debug\net6.0\second.GeneratedMSBuildEditorConfig.editorconfig
+F:\AAAA\second\obj\Debug\net6.0\second.AssemblyInfoInputs.cache
+F:\AAAA\second\obj\Debug\net6.0\second.AssemblyInfo.cs
+F:\AAAA\second\obj\Debug\net6.0\second.csproj.CoreCompileInputs.cache
+F:\AAAA\second\bin\Debug\net6.0\second.exe
+F:\AAAA\second\bin\Debug\net6.0\second.deps.json
+F:\AAAA\second\bin\Debug\net6.0\second.runtimeconfig.json
+F:\AAAA\second\bin\Debug\net6.0\second.dll
+F:\AAAA\second\bin\Debug\net6.0\second.pdb
+F:\AAAA\second\obj\Debug\net6.0\second.dll
+F:\AAAA\second\obj\Debug\net6.0\refint\second.dll
+F:\AAAA\second\obj\Debug\net6.0\second.pdb
+F:\AAAA\second\obj\Debug\net6.0\second.genruntimeconfig.cache
+F:\AAAA\second\obj\Debug\net6.0\ref\second.dll
